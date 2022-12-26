@@ -23,7 +23,7 @@ body{
     text-align-last:center;
     margin:0;
 }
-.card h2{
+.card .container h2{
     font-size:48px;
 
 }
